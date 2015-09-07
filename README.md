@@ -1,0 +1,3 @@
+# GoSpider---Kruskal
+
+sem observações
